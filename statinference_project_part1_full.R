@@ -25,7 +25,6 @@ lines(xfit, yfit, pch=22, col="red", lty=2)
 # add legend
 legend('topright', c("simulation", "theoretical"), lty=c(1,2), col=c("black", "red"))
 
-
 ## ------------------------------------------------------------------------
 qqnorm(row_means); qqline(row_means)
 
