@@ -65,4 +65,4 @@ intercept, `dose` and `suppVC`), the null hypothesis is that the coefficients ar
 zero, meaning that no tooth length variation is explained by that variable.
 All _p_-values are less than 0.05, rejecting the null hypothesis and suggesting
 that each variable explains a significant portion of variability in tooth length,
-assuming the significance level is 5%.
+assuming the significance level is 5%. 
