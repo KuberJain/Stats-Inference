@@ -52,7 +52,7 @@ of the distribution is $\sigma^2 / n = 1/(\lambda^2 n) = 1/(0.04 \times 40)$ =
 Due to the central limit theorem, the averages of samples follow normal
 distribution. The figure above also shows the density computed using the histogram and the
 normal density plotted with theoretical mean and variance values. Also, the
-q-q plot below suggests the normality.
+q-q plot below suggests the normality
 
 
 ```r
