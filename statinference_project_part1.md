@@ -1,6 +1,6 @@
 ---
-title: 'Statistical Inference Course Project, Part 1: Simulation Exercises'
-author: "Sefa Kilic"
+title: 'Course Project, Part 1: Simulation Exercises'
+author: "Kuber Jain"
 output:
   html_document: default
   pdf_document:
@@ -60,6 +60,4 @@ Note that the true rate, $\lambda$ is 5.
 
 <!--
 ---
-The report including the code for plots is available at
-http://github.com/sefakilic/coursera-statinference/statinference_project_part1.md
 -->
